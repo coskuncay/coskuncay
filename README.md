@@ -15,7 +15,7 @@
 #### I'm a Full-Stack Developer working in Ankara,Turkey.
 
 - 🔭 I’m currently improving myself on iOS&Android application development with Flutter.
-- 📫 How to reach me: emrecoskuncay@gmail.com
+- 📫 How to reach me: emrecoskuncay@gmail.com 
 
 <a href="https://github.com/coskuncay">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=coskuncay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,6 +23,7 @@
 </a>
 
 
+![](https://komarev.com/ghpvc/?username=coskuncay&color=blueviolet)
 ---
 ### You can find Languages and Tools in this Account and much more!
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
