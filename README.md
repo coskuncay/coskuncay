@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### `npx coskuncay`
 
 <!--
 - 🔭 I’m currently working on ...
@@ -9,9 +10,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![](https://komarev.com/ghpvc/?username=coskuncay&color=blueviolet)[](url)
 -->
 
-
+### Hi there 👋
 #### I'm a Full-Stack Developer working in Ankara,Turkey.
 
 - 🔭 I’m currently improving myself on iOS&Android application development with Flutter.
@@ -23,12 +26,11 @@
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=coskuncay&color=blueviolet)
 ---
-### You can find Languages and Tools in this Account and much more!
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/flutter/flutter.png" />
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
