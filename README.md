@@ -22,7 +22,6 @@
 
 <a href="https://github.com/coskuncay">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=coskuncay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coskuncay&theme=dark"/>
 </a>
 
 
